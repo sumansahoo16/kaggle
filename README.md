@@ -4,7 +4,7 @@
 - **University of Liverpool - Ion Switching**
     - University of Liverpool (Institute of Ageing and Chronic Disease Research)
     - 38 / 2618 (top 1.5%)
-    - Keywords: ElectroPhysiological Signal Data, Time Series, 1d CNN + LSTM, Ordinal Classification, WaveNet, TensorFlow
+    - Keywords: ElectroPhysiological Signal Data, Time-Series, 1dCNN + LSTM, Ordinal Classification, WaveNet, TensorFlow
     - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/liverpool-ion-switching/) ]
  
 ---
