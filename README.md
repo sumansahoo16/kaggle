@@ -1,12 +1,5 @@
 # KAGGLE COMPETITIONS
 
-- SETI Breakthrough Listen - E.T. Signal Search
-    - UC Berkeley (SETI Research Center)
-    - 27 / 768 (top 3%)
-    - Keywords: Computer Vision, Signal Processing, Binary Classification, CNN, MixUp, Knowledge Distillation, Transfer Learning, TensorFlow
-    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/seti-breakthrough-listen) ]
-
----
 
 - University of Liverpool - Ion Switching
     - University of Liverpool (Institute of Ageing and Chronic Disease Research)
@@ -14,6 +7,14 @@
     - Keywords: ElectroPhysiological Signal Data, Time Series, 1d CNN + LSTM, Ordinal Classification, WaveNet, TensorFlow
     - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/liverpool-ion-switching/) ]
  
+---
+
+- SETI Breakthrough Listen - E.T. Signal Search
+    - UC Berkeley (SETI Research Center)
+    - 27 / 768 (top 3%)
+    - Keywords: Computer Vision, Signal Processing, Binary Classification, CNN, MixUp, Knowledge Distillation, Transfer Learning, TensorFlow
+    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/seti-breakthrough-listen) ]
+
 ---
 
 - TReNDS Neuroimaging
