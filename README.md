@@ -4,7 +4,7 @@
     - Berkeley SETI Research Center
     - 27 / 768 
     - Keywords : Computer Vision, Signal Processing, Binary Classification, MixUp, Knowledge distillation, TensorFlow
-    - [Link text Here](https://link-url-here.org)
+    - [ [Link text Here](https://link-url-here.org) ]
 
 ---
 
