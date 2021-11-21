@@ -3,6 +3,8 @@
 - SETI Breakthrough Listen - E.T. Signal Search
     - Berkeley SETI Research Center
     - 27 / 768 
+    - Keywords : Computer Vision, Signal Processing, Binary Classification, MixUp, Knowledge distillation, TensorFlow
+    - [About / Apporach] [Code]
 
 ---
 
