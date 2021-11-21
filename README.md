@@ -1,5 +1,5 @@
-#SETI Breakthrough Listen - E.T. Signal Search
-##Berkeley SETI Research Center
+# SETI Breakthrough Listen - E.T. Signal Search
+## Berkeley SETI Research Center
 
-#University of Liverpool - Ion Switching
-##University of Liverpool
+# University of Liverpool - Ion Switching
+## University of Liverpool
