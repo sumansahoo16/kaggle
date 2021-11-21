@@ -1,6 +1,8 @@
 # KAGGLE COMPETITIONS
 
-- SETI Breakthrough Listen - E.T. Signal Search
- - Berkeley SETI Research Center
-- University of Liverpool - Ion Switching
-
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
