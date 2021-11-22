@@ -3,7 +3,7 @@
 
 - **University of Liverpool - Ion Switching**
     - University of Liverpool (Institute of Ageing and Chronic Disease Research)
-    - 38 / 2618 (top 1.5%)
+    - Rank : 38 / 2618 (top 1.5%)
     - Keywords: ElectroPhysiological Signal Data, Time-Series, 1dCNN + LSTM, Ordinal Classification, WaveNet, TensorFlow
     - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/liverpool-ion-switching/) ]
  
@@ -11,7 +11,7 @@
 
 - **SETI Breakthrough Listen - E.T. Signal Search**
     - UC Berkeley (SETI Research Center)
-    - 27 / 768 (top 3%)
+    - Rank : 27 / 768
     - Keywords: Computer Vision, Signal Processing, Binary Classification, CNN, MixUp, Knowledge Distillation, Transfer Learning, TensorFlow
     - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/seti-breakthrough-listen) ]
 
@@ -19,25 +19,25 @@
 
 - **TReNDS Neuroimaging**
     - GSU/TReNDS
-    - 42 / 1047
-    -  Keywords : Computer Vision, Signal Processing, Binary Classification, MixUp, Knowledge distillation, TensorFlow
-    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://link-url-here.org) ]
+    - Rank : 42 / 1047
+    -  Keywords : High Dimensional Tabular data, Multi Target Regression, Robust Linear Models, scikit-learn
+    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/trends-assessment-prediction) ]
     
 ---
 
 - **Mechanisms of Action (MoA) Prediction**
     - Laboratory for Innovation Science at Harvard
-    - 62 / 4373
-    -  Keywords : Computer Vision, Signal Processing, Binary Classification, MixUp, Knowledge distillation, TensorFlow
-    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://link-url-here.org) ]
+    - Rank : 62 / 4373 (top 1.5%)
+    -  Keywords : Pharmacology, High Cardinality Multi-Label Classification, Ensemble Learning, PyTorch & TensorFlow
+    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/lish-moa/) ]
 
 ---
 
 - **OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction**
     - Stanford University
     - 64 / 1636
-    -  Keywords : Computer Vision, Signal Processing, Binary Classification, MixUp, Knowledge distillation, TensorFlow
-    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://link-url-here.org) ]
+    -  Keywords : Molecular Structure Data (Graph), Graph Convolution Networks, Transformer  
+    - [ [Approach](https://link-url-here.org) ]  [ [Code](https://link-url-here.org) ]  [ [Link](https://www.kaggle.com/c/stanford-covid-vaccine/) ]
     
 ---
 
